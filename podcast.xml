@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Oct 2026 05:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:19:42 +0000</lastBuildDate>
     <itunes:author>LIVE Academy</itunes:author>
     <itunes:owner><itunes:name>LIVE Academy</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Hướng dẫn cách livestream bán hàng cho người mới bắt đầu từ A – Z</title>
+      <link>https://liveacademy.vn/cach-livestream-ban-hang-cho-nguoi-moi-bat-dau</link>
+      <description>Livestream bán hàng đã trở thành hình thức kinh doanh online bùng nổ, giúp bạn tiếp cận hàng ngàn khách hàng tiềm năng và chốt đơn nhanh chóng. Đối với người mới bắt đầu, việc xây dựng một quy trình chuẩn hóa từ khâu chuẩn bị, thực hiện đến xử lý sau phiên livestream là […]
+
+Đọc bài gốc: https://liveacademy.vn/cach-livestream-ban-hang-cho-nguoi-moi-bat-dau</description>
+      <guid isPermaLink="false">wp-3900</guid>
+      <pubDate>Tue, 27 Oct 2026 03:19:42 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/3900.mp3" length="4818237" type="audio/mpeg"/>
+      <itunes:duration>10:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Bán hàng livestream sợ gì nhất? 8 vấn đề thường gặp và cách xử lý</title>
       <link>https://liveacademy.vn/ban-hang-livestream-so-gi-nhat</link>
