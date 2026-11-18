@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LIVE Academy</title>
+    <link>https://liveacademy.vn</link>
+    <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/podcast.xml" rel="self" type="application/rss+xml"/>
+    <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
+    <language>vi</language>
+    <lastBuildDate>Mon, 26 Oct 2026 05:18:20 +0000</lastBuildDate>
+    <itunes:author>LIVE Academy</itunes:author>
+    <itunes:owner><itunes:name>LIVE Academy</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/cover.jpg"/>
+    <image><url>https://nhngoc1102003-cmyk.github.io/podcast_liveaca/cover.jpg</url><title>LIVE Academy</title><link>https://liveacademy.vn</link></image>
+    <itunes:category text="News"></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Bán hàng livestream sợ gì nhất? 8 vấn đề thường gặp và cách xử lý</title>
+      <link>https://liveacademy.vn/ban-hang-livestream-so-gi-nhat</link>
+      <description>Khi bắt đầu kinh doanh qua livestream, nhiều người lo ngại tình trạng ít người xem, không chốt được đơn, khách bom hàng hoặc chi phí vận hành vượt dự kiến. Vậy bán hàng livestream sợ gì nhất và làm thế nào để xử lý những vấn đề này? Trong bài viết dưới đây, LIVE […]
+
+Đọc bài gốc: https://liveacademy.vn/ban-hang-livestream-so-gi-nhat</description>
+      <guid isPermaLink="false">wp-3824</guid>
+      <pubDate>Mon, 26 Oct 2026 05:18:20 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/3824.mp3" length="4590031" type="audio/mpeg"/>
+      <itunes:duration>9:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
