@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Học viện đào tạo Livestream &amp; Kỹ năng thực chiến hàng đầu Việt Nam, được sáng lập bởi MiTa Minh Tân, với hơn 10 năm kinh nghiệm trong lĩnh vực MC, livestream và đào tạo kỹ năng. Học viện tập trung đào tạo thực chiến các kỹ năng livestream, dẫn chương trình, giọng nói, giao tiếp, video ngắn và xây dựng thương hiệu cá nhân, đồng hành cùng KOL, KOC, Content Creator, Host Livestream và nhà bán hàng phát triển năng lực trong môi trường số.</description>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:42:14 +0000</lastBuildDate>
     <itunes:author>LIVE Academy</itunes:author>
     <itunes:owner><itunes:name>LIVE Academy</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Cách livestream bán hàng trên Facebook hiệu quả, thu hút người xem</title>
+      <link>https://liveacademy.vn/cach-livestream-ban-hang-tren-facebook</link>
+      <description>Bán hàng qua livestream cho phép bạn giới thiệu sản phẩm, giải đáp thắc mắc và tương tác trực tiếp với khách hàng trong quá trình mua sắm. Việc nắm vững cách livestream bán hàng trên facebook giúp bạn tiếp cận hàng nghìn khách hàng tiềm năng, tối ưu chi phí quảng cáo và gia […]
+
+Đọc bài gốc: https://liveacademy.vn/cach-livestream-ban-hang-tren-facebook</description>
+      <guid isPermaLink="false">wp-4100</guid>
+      <pubDate>Thu, 29 Oct 2026 08:42:14 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/4100.mp3" length="5433266" type="audio/mpeg"/>
+      <itunes:duration>11:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hướng dẫn setup phòng livestream bán hàng chi tiết, chuyên nghiệp</title>
       <link>https://liveacademy.vn/setup-phong-livestream-ban-hang</link>
