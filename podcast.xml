@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Học viện đào tạo Livestream &amp; Kỹ năng thực chiến hàng đầu Việt Nam, được sáng lập bởi MiTa Minh Tân, với hơn 10 năm kinh nghiệm trong lĩnh vực MC, livestream và đào tạo kỹ năng. Học viện tập trung đào tạo thực chiến các kỹ năng livestream, dẫn chương trình, giọng nói, giao tiếp, video ngắn và xây dựng thương hiệu cá nhân, đồng hành cùng KOL, KOC, Content Creator, Host Livestream và nhà bán hàng phát triển năng lực trong môi trường số.</description>
     <language>vi</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:23:00 +0000</lastBuildDate>
     <itunes:author>LIVE Academy</itunes:author>
     <itunes:owner><itunes:name>LIVE Academy</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Livestream bán hàng cần chuẩn bị những gì để lên sóng hiệu quả?</title>
+      <link>https://liveacademy.vn/livestream-ban-hang-can-chuan-bi-nhung-gi</link>
+      <description>Một buổi livestream bán hàng hiệu quả không chỉ phụ thuộc vào khả năng dẫn dắt của host mà còn cần sự chuẩn bị kỹ lưỡng về sản phẩm, kịch bản, thiết bị và quy trình vận hành. Nếu bạn chưa biết livestream bán hàng cần chuẩn bị những gì, bài viết dưới đây của […]
+
+Đọc bài gốc: https://liveacademy.vn/livestream-ban-hang-can-chuan-bi-nhung-gi</description>
+      <guid isPermaLink="false">wp-3952</guid>
+      <pubDate>Wed, 28 Oct 2026 03:23:00 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/3952.mp3" length="4694099" type="audio/mpeg"/>
+      <itunes:duration>9:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tất tần tật cách livestream bán hàng hiệu quả thu hút nghìn đơn</title>
       <link>https://liveacademy.vn/cach-livestream-ban-hang</link>
