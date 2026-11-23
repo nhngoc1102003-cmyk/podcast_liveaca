@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Học viện đào tạo Livestream &amp; Kỹ năng thực chiến hàng đầu Việt Nam, được sáng lập bởi MiTa Minh Tân, với hơn 10 năm kinh nghiệm trong lĩnh vực MC, livestream và đào tạo kỹ năng. Học viện tập trung đào tạo thực chiến các kỹ năng livestream, dẫn chương trình, giọng nói, giao tiếp, video ngắn và xây dựng thương hiệu cá nhân, đồng hành cùng KOL, KOC, Content Creator, Host Livestream và nhà bán hàng phát triển năng lực trong môi trường số.</description>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:29:03 +0000</lastBuildDate>
     <itunes:author>LIVE Academy</itunes:author>
     <itunes:owner><itunes:name>LIVE Academy</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Top 12 phần mềm livestream bán hàng hỗ trợ chốt đơn và quản lý bán hàng</title>
+      <link>https://liveacademy.vn/phan-mem-livestream-ban-hang</link>
+      <description>Phần mềm livestream bán hàng hỗ trợ ghi nhận bình luận, xử lý đơn hàng và quản lý dữ liệu khách hàng trong các phiên phát trực tiếp. Tùy công cụ, bạn còn có thể đồng bộ tồn kho, kết nối vận chuyển hoặc phát sóng trên nhiều nền tảng. LIVE Academy tổng hợp 12 […]
+
+Đọc bài gốc: https://liveacademy.vn/phan-mem-livestream-ban-hang</description>
+      <guid isPermaLink="false">wp-3981</guid>
+      <pubDate>Wed, 28 Oct 2026 07:29:03 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/3981.mp3" length="5020541" type="audio/mpeg"/>
+      <itunes:duration>10:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Những từ bị cấm khi livestream TikTok mới nhất và mẹo tránh vi phạm</title>
       <link>https://liveacademy.vn/nhung-tu-bi-cam-khi-livestream-tiktok</link>
