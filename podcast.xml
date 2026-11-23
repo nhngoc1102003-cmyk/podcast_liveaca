@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Học viện đào tạo Livestream &amp; Kỹ năng thực chiến hàng đầu Việt Nam, được sáng lập bởi MiTa Minh Tân, với hơn 10 năm kinh nghiệm trong lĩnh vực MC, livestream và đào tạo kỹ năng. Học viện tập trung đào tạo thực chiến các kỹ năng livestream, dẫn chương trình, giọng nói, giao tiếp, video ngắn và xây dựng thương hiệu cá nhân, đồng hành cùng KOL, KOC, Content Creator, Host Livestream và nhà bán hàng phát triển năng lực trong môi trường số.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:40:56 +0000</lastBuildDate>
     <itunes:author>LIVE Academy</itunes:author>
     <itunes:owner><itunes:name>LIVE Academy</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gợi ý 12 cách livestream bán quần áo thu hút nhiều lượt xem, lượt chốt đơn</title>
+      <link>https://liveacademy.vn/cach-livestream-ban-quan-ao</link>
+      <description>Cách livestream bán quần áo hiệu quả đòi hỏi sự chuẩn bị về sản phẩm, kịch bản, người dẫn và phương pháp tương tác với khách hàng. Để thu hút người xem và tăng khả năng chốt đơn, shop thời trang cần biết cách xây dựng nội dung livestream hấp dẫn, lựa chọn thời điểm […]
+
+Đọc bài gốc: https://liveacademy.vn/cach-livestream-ban-quan-ao</description>
+      <guid isPermaLink="false">wp-4156</guid>
+      <pubDate>Thu, 29 Oct 2026 10:40:56 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/4156.mp3" length="4546164" type="audio/mpeg"/>
+      <itunes:duration>9:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Cách livestream bán hàng trên TikTok thu hút người xem, chốt đơn hiệu quả</title>
       <link>https://liveacademy.vn/cach-livestream-ban-hang-tren-tiktok</link>
