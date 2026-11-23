@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Học viện đào tạo Livestream &amp; Kỹ năng thực chiến hàng đầu Việt Nam, được sáng lập bởi MiTa Minh Tân, với hơn 10 năm kinh nghiệm trong lĩnh vực MC, livestream và đào tạo kỹ năng. Học viện tập trung đào tạo thực chiến các kỹ năng livestream, dẫn chương trình, giọng nói, giao tiếp, video ngắn và xây dựng thương hiệu cá nhân, đồng hành cùng KOL, KOC, Content Creator, Host Livestream và nhà bán hàng phát triển năng lực trong môi trường số.</description>
     <language>vi</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:59:18 +0000</lastBuildDate>
     <itunes:author>LIVE Academy</itunes:author>
     <itunes:owner><itunes:name>LIVE Academy</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>9 cách tạo phông nền khi livestream bán hàng đơn giản, chuyên nghiệp</title>
+      <link>https://liveacademy.vn/cach-tao-phong-nen-khi-livestream</link>
+      <description>Phông nền livestream là yếu tố ảnh hưởng trực tiếp đến bố cục hình ảnh, khả năng nhận diện thương hiệu và trải nghiệm của người xem. Tùy vào thiết bị, không gian và mục đích phát sóng, cách tạo phông nền khi livestream có thể được triển khai bằng phông xanh, backdrop in ấn, […]
+
+Đọc bài gốc: https://liveacademy.vn/cach-tao-phong-nen-khi-livestream</description>
+      <guid isPermaLink="false">wp-4179</guid>
+      <pubDate>Fri, 30 Oct 2026 07:59:18 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/4179.mp3" length="5049374" type="audio/mpeg"/>
+      <itunes:duration>10:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mẫu kịch bản livestream bán quần áo hiệu quả giúp chốt đơn nhanh chóng</title>
       <link>https://liveacademy.vn/kich-ban-livestream-ban-quan-ao</link>
