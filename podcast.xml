@@ -4,7 +4,7 @@
     <title>LIVE Academy</title>
     <link>https://liveacademy.vn</link>
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/podcast.xml" rel="self" type="application/rss+xml"/>
-    <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
+    <description>Học viện đào tạo Livestream &amp; Kỹ năng thực chiến hàng đầu Việt Nam, được sáng lập bởi MiTa Minh Tân, với hơn 10 năm kinh nghiệm trong lĩnh vực MC, livestream và đào tạo kỹ năng. Học viện tập trung đào tạo thực chiến các kỹ năng livestream, dẫn chương trình, giọng nói, giao tiếp, video ngắn và xây dựng thương hiệu cá nhân, đồng hành cùng KOL, KOC, Content Creator, Host Livestream và nhà bán hàng phát triển năng lực trong môi trường số.</description>
     <language>vi</language>
     <lastBuildDate>Tue, 27 Oct 2026 03:19:42 +0000</lastBuildDate>
     <itunes:author>LIVE Academy</itunes:author>
@@ -37,6 +37,19 @@
       <pubDate>Mon, 26 Oct 2026 05:18:20 +0000</pubDate>
       <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/3824.mp3" length="4590031" type="audio/mpeg"/>
       <itunes:duration>9:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Top 5 phần mềm hỗ trợ phát sóng livestream chuyên nghiệp</title>
+      <link>https://liveacademy.vn/kham-pha-5-phan-mem-ho-tro-livestream-hieu-qua</link>
+      <description>Khám phá 5 phần mềm hỗ trợ livestream chuyên nghiệp được nhiều host và nhãn hàng lựa chọn. So sánh tính năng, ưu điểm và cách chọn phần mềm livestream phù hợp nhất.
+
+Đọc bài gốc: https://liveacademy.vn/kham-pha-5-phan-mem-ho-tro-livestream-hieu-qua</description>
+      <guid isPermaLink="false">wp-29</guid>
+      <pubDate>Wed, 15 Jul 2026 06:13:08 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_liveaca/audio/29.mp3" length="2909190" type="audio/mpeg"/>
+      <itunes:duration>6:04</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
